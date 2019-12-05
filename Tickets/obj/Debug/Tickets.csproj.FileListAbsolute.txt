@@ -1,0 +1,7 @@
+C:\Users\lucas.ppereira5\source\repos\tickets\tickets\Tickets\bin\Debug\Tickets.exe.config
+C:\Users\lucas.ppereira5\source\repos\tickets\tickets\Tickets\bin\Debug\Tickets.exe
+C:\Users\lucas.ppereira5\source\repos\tickets\tickets\Tickets\bin\Debug\Tickets.pdb
+C:\Users\lucas.ppereira5\source\repos\tickets\tickets\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+C:\Users\lucas.ppereira5\source\repos\tickets\tickets\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\lucas.ppereira5\source\repos\tickets\tickets\Tickets\obj\Debug\Tickets.exe
+C:\Users\lucas.ppereira5\source\repos\tickets\tickets\Tickets\obj\Debug\Tickets.pdb
